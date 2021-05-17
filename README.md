@@ -1,12 +1,11 @@
 ![TOSINT](https://user-images.githubusercontent.com/76810020/118409551-da55ec80-b682-11eb-8fad-6adb039e4a34.png)
 <div align="center">
-  <div align="center">
-  	<b>:octocat:</b>
-</div>
-  <a href="https://github.com/TheAwesomeLab">
+  <a href="https://awesome.re/">
   	<img src="https://awesome.re/badge-flat2.svg">
-    <img src="https://img.shields.io/github/stars/TheAwesomeLab/Awesome-Telegram-OSINT?style=social">
   </a>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/github/stars/TheAwesomeLab/Awesome-Telegram-OSINT?style=social"> :octocat:
 </div>
 <div align="center">
   	<b>👉 Feel Free To Contribute 👈</b>
