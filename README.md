@@ -18,6 +18,7 @@
 - [Directories & Catalogues](#-directories-and-catalogues)
 - [Misc Directories & Catalogues](#-misc-directories-and-catalogues)
 - [Tools](#-tools)
+- [Bots](#-bots)
 - [Resources](#-resources)
 
 ## [↑](#contents) Search Engines
@@ -95,6 +96,14 @@
 * Telegram API for OSINT : [P1](https://fabledowlblog.wordpress.com/2017/07/10/telegram-api-for-osint-part-1-users/) - [P2](https://fabledowlblog.wordpress.com/2017/09/09/telegram-api-for-osint-part-2-messages/)
 * [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy)
 * [Genisys](https://github.com/Cryptonian007/Genisys)
+* [Informer](https://github.com/paulpierre/informer)
+* [tgcf](https://github.com/aahnik/tgcf)
+* [Archive-Bot](https://github.com/Nukesor/archivebot)
+
+## [↑](#contents) Bots
+
+* [TgScanRobot](https://tgdev.io/bot/tgscanrobot)
+* [ChatSearchRobot](https://tgdev.io/bot/chatsearchrobot)
 
 ## [↑](#contents) Resources
 
@@ -102,3 +111,4 @@
 * [Telegram bot to find which groups the person is member of.](https://www.reddit.com/r/OSINT/comments/kvb5jd/telegram_bot_to_find_which_groups_the_person_is/)
 * [Tactics for Telegram OSINT](https://widgets.figshare.com/articles/13655591/embed?show_title=1)
 * [Telegram Network Visualization](https://medium.com/dataseries/telegram-network-visualization-tracing-forwards-and-mentions-f75746712fcf)
+* [How to Get Data From Telegram Using Python](https://betterprogramming.pub/how-to-get-data-from-telegram-82af55268a4b)
