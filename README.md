@@ -71,6 +71,7 @@
 * [Telegram Region](https://telegram-region.com/)
 * [ChannelGram](https://channelgram.com/)
 * [Telegros](https://telegros.ru/)
+* [ReaderGRAM](https://readergram.com/)
 
 ## [↑](#contents) Misc Directories And Catalogues
 
@@ -86,6 +87,7 @@
 * [VK DB5](https://vk.com/topic-42713470_31758284)
 * [VK DB6](https://vk.com/topic-34185416_34307947)
 * [VK DB7](https://vk.com/topic-42281098_35740699)
+* [VK DB8](https://vk.com/topic-130067045_34430403)
 
 ## [↑](#contents) Tools
 
@@ -99,11 +101,17 @@
 * [Informer](https://github.com/paulpierre/informer)
 * [tgcf](https://github.com/aahnik/tgcf)
 * [Archive-Bot](https://github.com/Nukesor/archivebot)
+* [Telescan](https://github.com/pielco11/telescan)
+* [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon)
 
 ## [↑](#contents) Bots
 
 * [TgScanRobot](https://tgdev.io/bot/tgscanrobot)
 * [ChatSearchRobot](https://tgdev.io/bot/chatsearchrobot)
+* [IDBot](https://t.me/username_to_id_bot)
+* [Account Creation Date Bot](https://t.me/creationdatebot)
+* [Username History Bot](https://t.me/SangMataInfo_bot)
+* [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 
 ## [↑](#contents) Resources
 
@@ -112,3 +120,4 @@
 * [Tactics for Telegram OSINT](https://widgets.figshare.com/articles/13655591/embed?show_title=1)
 * [Telegram Network Visualization](https://medium.com/dataseries/telegram-network-visualization-tracing-forwards-and-mentions-f75746712fcf)
 * [How to Get Data From Telegram Using Python](https://betterprogramming.pub/how-to-get-data-from-telegram-82af55268a4b)
+* [Tips how to find private, hidden, personal groups and channels](https://telegra.ph/Tips-how-to-find-private-hidden-personal-groups-and-channels---TelegramPrivateChatLeaks-08-10)
