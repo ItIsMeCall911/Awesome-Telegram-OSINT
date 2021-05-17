@@ -99,7 +99,7 @@
 * [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy)
 * [Genisys](https://github.com/Cryptonian007/Genisys)
 * [Informer](https://github.com/paulpierre/informer)
-* [tgcf](https://github.com/aahnik/tgcf)
+* [TGCF](https://github.com/aahnik/tgcf)
 * [Archive-Bot](https://github.com/Nukesor/archivebot)
 * [Telescan](https://github.com/pielco11/telescan)
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon)
