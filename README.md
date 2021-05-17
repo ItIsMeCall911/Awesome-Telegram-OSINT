@@ -38,7 +38,7 @@
 * [Tgram](https://tgram.ru/channels)
 * [TelegramGroup](https://www.telegram-group.com/en/)
 * [Tgram.io](https://tgram.io/)
-* [Tlgrm.eu](http://tlgrm.eu/)
+* [Tlgrm.eu](https://tlgrm.eu/channels)
 * [HotTg](https://www.hottg.com/telegram-group/)
 * [Telegram Store](https://telegram-store.com/)
 * [TelegramIndex](https://telegramindex.com/)
