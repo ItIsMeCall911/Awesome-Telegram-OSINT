@@ -26,6 +26,8 @@
 * [Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
 * [BUZZ.IM](https://search.buzz.im/)
 * [Lyzem](https://lyzem.com/)
+* [Telegram Chinese Search](http://www.sssoou.com/)
+* [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
 
 ## [↑](#contents) Directories And Catalogues
 * [TelegramDB](https://telegramdb.org/)
@@ -71,6 +73,9 @@
 * [ChannelGram](https://channelgram.com/)
 * [Telegros](https://telegros.ru/)
 * [ReaderGRAM](https://readergram.com/)
+* [电报群组大全](https://www.dianbaoqun.net/)
+* [Taiwan Group Index](https://www.telegram.url.tw/)
+* [Telegram 公眾索引系統](https://tgtw.cc/)
 
 ## [↑](#contents) Misc Directories And Catalogues
 
@@ -87,6 +92,10 @@
 * [VK DB6](https://vk.com/topic-34185416_34307947)
 * [VK DB7](https://vk.com/topic-42281098_35740699)
 * [VK DB8](https://vk.com/topic-130067045_34430403)
+* [Chinese Directory 1](https://zxfast.com/telegram_list.html)
+* [Chinese Directory 2](https://www.yuque.com/telegram/yxg3h6/tm)
+* [Chinese Directory 3](https://congcong0806.github.io/2018/04/24/Telegram/)
+* [Chinese Directory 4](https://www.newlearner.site/2018/10/19/telegram-group/channel/bot.html)
 
 ## [↑](#contents) Tools
 
@@ -111,6 +120,7 @@
 * [Account Creation Date Bot](https://t.me/creationdatebot)
 * [Username History Bot](https://t.me/SangMataInfo_bot)
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
+* [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
 
 ## [↑](#contents) Resources
 
