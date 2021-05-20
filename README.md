@@ -5,7 +5,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/stars/TheAwesomeLab/Awesome-Telegram-OSINT?style=social"> :octocat:
+  <img src="https://img.shields.io/github/stars/ItIsMeCall911/Awesome-Telegram-OSINT?style=social"> :octocat:
 </div>
 <div align="center">
   	<b>👉 Feel Free To Contribute 👈</b>
