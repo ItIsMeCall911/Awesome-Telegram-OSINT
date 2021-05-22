@@ -3,12 +3,8 @@
   <a href="https://awesome.re/">
   	<img src="https://awesome.re/badge-flat2.svg">
   </a>
-</div>
 <div align="center">
-  <img src="https://img.shields.io/github/stars/ItIsMeCall911/Awesome-Telegram-OSINT?style=social"> :octocat:
-</div>
-<div align="center">
-  	<b>👉 Feel Free To Contribute 👈</b>
+  	<b>👉 <a href="https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT/pulls">Feel Free To Contribute</a> 👈</b>
 </div>
 
 ## 📑 Contents
