@@ -3,6 +3,7 @@
   <a href="https://awesome.re/">
   	<img src="https://awesome.re/badge-flat2.svg">
   </a>
+</div>
 <div align="center">
   	<b>👉 <a href="https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT/pulls">Feel Free To Contribute</a> 👈</b>
 </div>
