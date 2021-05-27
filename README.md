@@ -25,6 +25,7 @@
 * [Lyzem](https://lyzem.com/)
 * [Telegram Chinese Search](http://www.sssoou.com/)
 * [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
+* [Telegra.ph Search Engine](https://telegcrack.com/)
 
 ## [↑](#contents) Directories And Catalogues
 * [TelegramDB](https://telegramdb.org/)
@@ -114,10 +115,12 @@
 * [TgScanRobot](https://tgdev.io/bot/tgscanrobot)
 * [ChatSearchRobot](https://tgdev.io/bot/chatsearchrobot)
 * [IDBot](https://t.me/username_to_id_bot)
+* [UserInfoBot](https://t.me/userinfobot)
 * [Account Creation Date Bot](https://t.me/creationdatebot)
 * [Username History Bot](https://t.me/SangMataInfo_bot)
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 * [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
+* [SmartSearchBot 3.0](https://t.me/smart_search_3_bot)
 
 ## [↑](#contents) Resources
 
