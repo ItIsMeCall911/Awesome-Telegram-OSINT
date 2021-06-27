@@ -39,7 +39,7 @@
 * [TelegramGroup](https://www.telegram-group.com/en/)
 * [Tgram.io](https://tgram.io/)
 * [Tlgrm.eu](https://tlgrm.eu/channels)
-* [HotTg](https://www.hottg.com/telegram-group/)
+* [HotTg](https://www.hottg.com/telegram-group/) - [Tg-Me](https://www.tg-me.com/)
 * [Telegram Store](https://telegram-store.com/)
 * [TelegramIndex](https://telegramindex.com/)
 * [Telega.io](https://telega.io/catalog)
@@ -74,6 +74,11 @@
 * [电报群组大全](https://www.dianbaoqun.net/)
 * [Taiwan Group Index](https://www.telegram.url.tw/)
 * [Telegram 公眾索引系統](https://tgtw.cc/)
+* [TgChannels](https://en.tgchannels.org/)
+* [Telegoo](https://telegoo.net/)
+* [TelegramReader](https://telegramreader.com/)
+* [Telegram-Sliv](https://telegram-sliv.ru/)
+* [TG頻道群組合集](https://telegramgroups.com.hk/)
 
 ## [↑](#contents) Misc Directories And Catalogues
 
@@ -82,18 +87,10 @@
 * [Telegram channel list](http://telegram-downloads.ru/kanaly)
 * [r/TelegramChannels](https://www.reddit.com/r/TelegramChannels/)
 * [r/TelegramGroups](https://www.reddit.com/r/TelegramGroups/)
-* [VK DB1](https://vk.com/topic-27339681_35246829)
-* [VK DB2](https://vk.com/topic-156599162_36469304)
-* [VK DB3](https://vk.com/topic-104630729_33036142)
-* [VK DB4](https://vk.com/topic-18200000_33478269)
-* [VK DB5](https://vk.com/topic-42713470_31758284)
-* [VK DB6](https://vk.com/topic-34185416_34307947)
-* [VK DB7](https://vk.com/topic-42281098_35740699)
-* [VK DB8](https://vk.com/topic-130067045_34430403)
-* [Chinese Directory 1](https://zxfast.com/telegram_list.html)
-* [Chinese Directory 2](https://www.yuque.com/telegram/yxg3h6/tm)
-* [Chinese Directory 3](https://congcong0806.github.io/2018/04/24/Telegram/)
-* [Chinese Directory 4](https://www.newlearner.site/2018/10/19/telegram-group/channel/bot.html)
+* [Telegram Channels Exchange](https://smmacc.ru/shop/telegram.html)
+* [CatalogTelegram](https://catalog-telegram.ru/)
+* VK DB : [1](https://vk.com/topic-27339681_35246829) - [2](https://vk.com/topic-156599162_36469304) - [3](https://vk.com/topic-104630729_33036142) - [4](https://vk.com/topic-18200000_33478269) - [5](https://vk.com/topic-42713470_31758284) - [6](https://vk.com/topic-34185416_34307947) - [7](https://vk.com/topic-42281098_35740699) - [8](https://vk.com/topic-130067045_34430403)
+* Chinese Directory : [1](https://zxfast.com/telegram_list.html) - [2](https://www.yuque.com/telegram/yxg3h6/tm) - [3](https://congcong0806.github.io/2018/04/24/Telegram/) - [4](https://www.newlearner.site/2018/10/19/telegram-group/channel/bot.html)
 
 ## [↑](#contents) Tools
 
