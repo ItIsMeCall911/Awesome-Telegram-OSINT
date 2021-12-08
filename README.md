@@ -120,6 +120,9 @@
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 * [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
 * [SmartSearchBot 3.0](https://t.me/smart_search_3_bot)
+* [Maigret](https://t.me/maigret_osint_bot)
+* [Quick_OSINT](https://t.me/Quick_OSINT_bot)
+* [HowToFind](https://t.me/howtofindbot)
 
 ## [↑](#contents) Resources
 
