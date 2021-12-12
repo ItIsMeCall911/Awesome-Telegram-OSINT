@@ -120,6 +120,7 @@
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 * [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
 * [SmartSearchBot 3.0](https://t.me/smart_search_3_bot)
+* [Mobile Number Info Bot](https://t.me/NumberInfoDGbot)
 
 ## [↑](#contents) Resources
 
