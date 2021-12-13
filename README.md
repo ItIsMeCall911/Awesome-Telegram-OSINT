@@ -119,7 +119,6 @@
 * [Username History Bot](https://t.me/SangMataInfo_bot)
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 * [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
-* [SmartSearchBot 3.0](https://t.me/smart_search_3_bot)
 
 ## [↑](#contents) Resources
 
