@@ -95,6 +95,7 @@
 ## [↑](#contents) Tools
 
 * [Telegram Index](https://github.com/odysseusmax/tg-index)
+* [Telegram Finder](https://www.telegram-finder.io/?utm_source=github&utm_campaign=Awesome-Telegram-OSINT)
 * [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history)
 * [TGViewer](https://github.com/TGViewer/TGViewer.github.io)
 * [Telegram OSINT Library](https://github.com/Postuf/telegram-osint-lib)
