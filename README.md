@@ -119,6 +119,7 @@
 * [Username History Bot](https://t.me/SangMataInfo_bot)
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 * [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
+* [Cyber Collector](https://t.me/cybercollectorbot) — Free bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## [↑](#contents) Resources
 
