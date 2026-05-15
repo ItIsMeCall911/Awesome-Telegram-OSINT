@@ -119,6 +119,7 @@
 * [Username History Bot](https://t.me/SangMataInfo_bot)
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 * [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
+* [ChainCrawler Blockchain Forensics Tool](https://t.me/CrawlerHunterBot)
 
 ## [↑](#contents) Resources
 
