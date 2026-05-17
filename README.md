@@ -108,6 +108,7 @@
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon)
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration)
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map)
+* [tgkit](https://tgkit.io) — Free web toolbox for Telegram OSINT: username → numeric ID resolver, bulk username availability checker, username history tracker, channel/group finder, channel-post link parser (extract chat_id from t.me/c URLs).
 
 ## [↑](#contents) Bots
 
