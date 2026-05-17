@@ -119,6 +119,7 @@
 * [Username History Bot](https://t.me/SangMataInfo_bot)
 * [MotherSearch (Telegram Search Engine Bot)](https://t.me/MotherSearchBot)
 * [Inv-Link Creator Finder](https://t.me/LinkCreatorBot)
+* [UserID Checker Bot](https://t.me/userid_checkbot) - Instantly find Telegram User ID, Chat ID, or Channel ID. Also available as a web tool at [telegramuserid.com](https://telegramuserid.com)
 
 ## [↑](#contents) Resources
 
