@@ -26,6 +26,7 @@
 * [Telegram Chinese Search](http://www.sssoou.com/)
 * [名刀电报搜索](https://xtea.io/ts.html#gsc.tab=0)
 * [Telegra.ph Search Engine](https://telegcrack.com/)
+* [tgden](https://tgden.com/en/search) - Full-text search across 1.2M+ channels, 245k+ group chats and 160k+ bots, including search over what those channels actually posted. Free REST API (no key, CORS-enabled) and a hosted MCP endpoint for AI agents, no account needed.
 
 ## [↑](#contents) Directories And Catalogues
 * [TelegramDB](https://telegramdb.org/)
