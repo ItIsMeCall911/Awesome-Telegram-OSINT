@@ -89,6 +89,7 @@
 * [r/TelegramGroups](https://www.reddit.com/r/TelegramGroups/)
 * [Telegram Channels Exchange](https://smmacc.ru/shop/telegram.html)
 * [CatalogTelegram](https://catalog-telegram.ru/)
+* [tgboard](https://tgboard.com/en)
 * VK DB : [1](https://vk.com/topic-27339681_35246829) - [2](https://vk.com/topic-156599162_36469304) - [3](https://vk.com/topic-104630729_33036142) - [4](https://vk.com/topic-18200000_33478269) - [5](https://vk.com/topic-42713470_31758284) - [6](https://vk.com/topic-34185416_34307947) - [7](https://vk.com/topic-42281098_35740699) - [8](https://vk.com/topic-130067045_34430403)
 * Chinese Directory : [1](https://zxfast.com/telegram_list.html) - [2](https://www.yuque.com/telegram/yxg3h6/tm) - [3](https://congcong0806.github.io/2018/04/24/Telegram/) - [4](https://www.newlearner.site/2018/10/19/telegram-group/channel/bot.html)
 
