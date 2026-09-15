@@ -32,6 +32,7 @@
 * [Telemetrio](https://telemetr.io/en/channels)
 * [TGStat](https://tgstat.ru/)
 * [Telemetr](https://telemetr.me/)
+* [Statiko](https://statiko.io/) - Public channel analytics with edit/deletion history, trending topics, and an MCP connector
 * [TgramSearch](https://tgramsearch.com/)
 * [TelegramCatalog](https://telegramcatalog.com/en/channels)
 * [Telegram Catalog](https://telegram-catalog.ru/catalog/20)
