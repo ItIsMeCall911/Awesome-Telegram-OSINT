@@ -42,6 +42,8 @@
 * [HotTg](https://www.hottg.com/telegram-group/) - [Tg-Me](https://www.tg-me.com/)
 * [Telegram Store](https://telegram-store.com/)
 * [TelegramIndex](https://telegramindex.com/)
+* [Tiny Telegram Tools](https://tg.zovo.one/) - Directory of 22 free Telegram mini apps & bots: reminders, expense splitting, secret messages, trivia, standups and more.
+
 * [Telega.io](https://telega.io/catalog)
 * [Combot](https://combot.org/telegram/top/groups)
 * [Telegram Channels](https://telegramchannels.me/)
