@@ -108,6 +108,7 @@
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon)
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration)
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map)
+* [Telegram Channel Scraper](https://github.com/cprussin/apify-actors/tree/main/actors/telegram-channel-scraper) - open source; hosted version on Apify (paid): https://apify.com/cprussin/telegram-channel-scraper?fpr=to54nm
 
 ## [↑](#contents) Bots
 
