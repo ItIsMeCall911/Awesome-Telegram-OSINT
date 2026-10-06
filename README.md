@@ -52,6 +52,7 @@
 * [Telegram-Cat](https://telegrm-cat.com/channelscat/allchannels)
 * [TeleChappy](https://telechappy.com/catalog/channels/)
 * [Telegram Directory](https://tgdr.io/)
+* [TGScope](https://tgscope.io/) - Search and browse 3M+ public channels by topic, language and size, with per-channel stats, event pages and original research
 * [TGRAM β](https://tgram.me/channels)
 * [BotLIST.ru](https://botlist.ru/)
 * [TelegramBots.info](https://www.telegrambots.info/channels/)
