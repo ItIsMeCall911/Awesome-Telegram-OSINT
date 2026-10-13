@@ -108,6 +108,7 @@
 * [Telethon (For Creating Custom Tools)](https://github.com/LonamiWebs/Telethon)
 * [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration)
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map)
+* [TeleTraff Parsers](https://teletraff.com/en/modules/parsers?utm_source=github.com&utm_medium=pr&utm_campaign=free_wave0)
 
 ## [↑](#contents) Bots
 
