@@ -79,6 +79,7 @@
 * [TelegramReader](https://telegramreader.com/)
 * [Telegram-Sliv](https://telegram-sliv.ru/)
 * [TG頻道群組合集](https://telegramgroups.com.hk/)
+* [Teleboard](https://telegram.exposed)
 
 ## [↑](#contents) Misc Directories And Catalogues
 
